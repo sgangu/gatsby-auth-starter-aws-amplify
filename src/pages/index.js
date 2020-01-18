@@ -10,7 +10,7 @@ Amplify.configure(config)
 const IndexPage = () => (
   <Layout>
     <h1>Hi people</h1>
-    <p>Welcome Susensoft Medical process Management Application </p>
+    <p>Welcome to Susensoft Medical process Management Application </p>
     <p>Create a new account: <Link to="/app/signup">Sign Up</Link></p>
     <Link to="/app/login">Sign In</Link><br />
     <Link to="/app/home">Home</Link><br />
